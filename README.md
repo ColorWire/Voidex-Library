@@ -1,4 +1,5 @@
-# Voidex Hub Library Usage
+![Alt text](https://share.creavite.co/67d169f189908441e5524cf5.gif)
+
 
 ## Overview
 This is an example script to demonstrate how to create a basic GUI using Voidex Hub in Roblox with Lua. The script includes features such as toggles, buttons, and a destroy option for the GUI.
@@ -12,8 +13,6 @@ This is an example script to demonstrate how to create a basic GUI using Voidex 
 
 1. Download the Voidex Hub library from the provided [Library](https://github.com/ColorWire/Voidex-Library/blob/main/example.lua).
 2. Copy the following Lua code into your Roblox script editor.
-
-![Alt text](https://share.creavite.co/67d169f189908441e5524cf5.gif)
 
 
 ```lua
